@@ -1,0 +1,27 @@
+  ****----APLIKASI SISTEM INFORMASI RS PELITA HARAPAN----****
+       
+              ****------- Kelompok 2 -------****
+
+		    -Rizma Ayu Sofie Prahastika-
+                 -Salma Apriliana Saraswati-
+                  -Haikal Lentera Indonesia-
+                 -Vincent Chandra Trie Novan-
+               -Ni Kadek Cessica Natalie Regep-
+                    -Levina Septia Putri-
+
+               ***Cara Menjalankan Aplikasi***
+					||
+File database (.sql) ada dalam folder (/database/rumahsakitpelitaharapan.sql)
+Driver JDBC dan JCalendar ada di dalam folder (/library)
+1. Buka software xampp, kemudian pada menu "Apache dan MySQL" klik "Start" (penting)
+2. Buka browser, lalu pergi ke halaman http://localhost/phpmyadmin
+3. Pada menu yang berada di sebelah kiri klik "New", kemudian masukkan nama database = (rumahsakitpelitaharapan),
+   lalu klik "Create"
+4. Kemudian pilih Import>Choose File>(pilih file rumahsakitpelitaharapan.sql)
+5. Jika sudah, scroll halaman ke bawah kemudian pilih tombol "Go"
+6. File database sudah ter-Import, kemudian Run Aplikasi menggunakan Apache NetBeans IDE
+
+                   ***login menggunakan***
+            username = admin --> password = admin
+                            atau
+             username = user --> password = user
